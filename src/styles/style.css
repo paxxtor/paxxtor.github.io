@@ -256,6 +256,9 @@ main .main-presentation figure img {
     align-items: center;
     
   }
+  .iniciotxt h1{
+    margin-bottom: 7px;
+  }
 }
 
 /* ======================================== main - about ======================================== */
