@@ -85,7 +85,8 @@ a {
 }
 
 .nav-menu:hover {
-  color: #007bff; /* Cambia el color al pasar el ratón por encima según tus preferencias */
+  text-decoration: none;
+  color: #007bff;
 }
 
 
